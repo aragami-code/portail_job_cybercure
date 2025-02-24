@@ -60,3 +60,36 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # portail_job_cybercure
+
+### **Description du Projet : Application Web de Gestion des Offres d’Emploi**  
+
+#### **1. Contexte et Objectif**  
+Le cabinet **CyberCure**, spécialisé dans le recrutement et la cybersécurité, souhaite développer une **application web** permettant de gérer efficacement les offres d'emploi, les candidatures et le suivi des recrutements. L’objectif est d’offrir une plateforme intuitive et performante facilitant la mise en relation entre les recruteurs et les candidats.  
+
+---
+
+#### **2. Fonctionnalités Principales**  
+
+##### **A. Gestion des Offres d'Emploi**  
+- Création, modification et suppression des offres d’emploi.  
+- Classification des offres par catégorie, domaine d’expertise et localisation.  
+- Recherche et filtrage des offres par mots-clés, type de contrat, et expérience requise.  
+
+##### **B. Gestion des Candidatures**  
+- Soumission des candidatures avec CV et lettre de motivation.  
+- Suivi du statut des candidatures (en attente, en cours de traitement, acceptée, refusée).  
+- Notifications aux candidats concernant l’évolution de leur candidature.  
+
+##### **D. Gestion des Candidats**  
+- Création de profil avec informations personnelles, compétences et expériences.  
+- Téléchargement et mise à jour du CV et d’autres documents.  
+- Historique des candidatures envoyées et état des réponses.  
+
+##### **E. Administration de la Plateforme**  
+- Gestion des utilisateurs (candidats, recruteurs, administrateurs).  
+- Modération des offres et candidatures pour éviter les abus.  
+- Statistiques et tableaux de bord sur les recrutements.  
+
+
+---
+
